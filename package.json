@@ -1,0 +1,17 @@
+{
+  "name": "copy-history",
+  "version": "1.0.0",
+  "description": "A tool for copying history on remote computers",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "Chrome",
+    "history",
+    "copy",
+    "remote"
+  ],
+  "author": "John E. Anderson",
+  "license": "ISC"
+}
