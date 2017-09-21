@@ -17,4 +17,7 @@
   ],
   "author": "John E. Anderson",
   "license": "ISC"
+},
+"dependencies":{
+  "nodejs-iterator":"git+ssh://git@github.com/andersj5-cbe/nodejs-iterator.git"
 }
