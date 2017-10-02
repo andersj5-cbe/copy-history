@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": ""
-  },  "repository": {
+  },  
+  "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/andersj5-cbe/copy-history.git"
   },
@@ -17,7 +18,7 @@
   ],
   "author": "John E. Anderson",
   "license": "ISC"
-},
+,
 "dependencies":{
   "nodejs-iterator":"git+ssh://git@github.com/andersj5-cbe/nodejs-iterator.git"
 }
